@@ -31,7 +31,10 @@ Nenhuma dependência externa é necessária para o script fornecido, pois necess
 Segue a lista de argumentos e parâmetros para utilizar no terminal:
 
 > **--wordlist**: Caminho do arquivo de wordlist, por padrão o valor é "wordlist.txt"  
-> **--encoding**: Tipo de codificação para leitura do arquivo da wordlist, por padrão o valor é "utf-8"
+> **--encoding**: Tipo de codificação para leitura do arquivo da wordlist, por padrão o valor é "utf-8"  
+> **--no-stop**: Força o programa continuar buscando, mesmo que ache alguma correspondência  
+> **--progress-interval**: Mostra o progresso de busca para as N linhas desejadas, por padrão o valor é "10000"  
+> **--transforms**: Testa variações na formatação do valor de teste
 
 ---
 
