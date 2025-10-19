@@ -26,6 +26,10 @@ Nenhuma dependência externa é necessária para o script fornecido, pois necess
 
 ---
 
+# Argumentos
+
+---
+
 # Como estender / suportar outros hashes
 
 O script atual usa `hashlib.md5(...)`. Para suportar SHA256 ou outro algoritmo, substitua pela função apropriada:
