@@ -28,6 +28,10 @@ Nenhuma dependência externa é necessária para o script fornecido, pois necess
 
 # Argumentos
 
+Segue a lista de argumentos e parâmetros para utilizar no terminal:
+
+**--wordlist**: Caminho do arquivo de wordlist, por padrão o valor é "wordlist.txt"
+
 ---
 
 # Como estender / suportar outros hashes
