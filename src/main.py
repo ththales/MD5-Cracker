@@ -100,7 +100,7 @@ def main():
                     print("Search completed. All entries in the wordlist have been verified.")
             except KeyboardInterrupt:
                 elapsed = time.time() - start_time
-                print(f"\nInterrupted by user. Checked: {checked} candidates in {elapsed:.2f}s")
+                print(f"\nInterrupted by the user. Checked: {checked} candidates in {elapsed:.2f}s")
     except FileNotFoundError:
         print(f"Error: '{args.wordlist}' not found.")
     except UnicodeDecodeError:
