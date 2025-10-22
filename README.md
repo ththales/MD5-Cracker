@@ -22,8 +22,6 @@ Script em Python que percorre uma lista de palavras (`wordlist.txt`) e compara o
 * Sistema com memória e CPU compatíveis com o tamanho da sua wordlist.
 * `wordlist.txt` no mesmo diretório do script ou modifique o caminho e nome no código.
 
-Nenhuma dependência externa é necessária para o script fornecido, pois necessita apenas da biblioteca padrão (`hashlib`).
-
 ---
 
 # Argumentos
